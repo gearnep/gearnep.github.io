@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chats on Home away from Home</title>
+    <link>https://homeawayfromhome.netlify.app/chat/</link>
+    <description>Recent content in Chats on Home away from Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate><atom:link href="https://homeawayfromhome.netlify.app/chat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essa é a página onde você pode deixar uma mensagem no blog</title>
+      <link>https://homeawayfromhome.netlify.app/chat/chat/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://homeawayfromhome.netlify.app/chat/chat/</guid>
+      <description>Deixe uma palavra para a eternidade
+</description>
+    </item>
+    
+  </channel>
+</rss>

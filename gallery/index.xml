@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Home away from Home</title>
+    <link>https://homeawayfromhome.netlify.app/gallery/</link>
+    <description>Recent content in Galleries on Home away from Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate><atom:link href="https://homeawayfromhome.netlify.app/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frederyk</title>
+      <link>https://homeawayfromhome.netlify.app/gallery/frederyk/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://homeawayfromhome.netlify.app/gallery/frederyk/</guid>
+      <description>My beloved cat
+                                       mm f/ sec ISO &#34;</description>
+    </item>
+    
+    <item>
+      <title>Moron</title>
+      <link>https://homeawayfromhome.netlify.app/gallery/moron/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://homeawayfromhome.netlify.app/gallery/moron/</guid>
+      <description>EU CONSEGUI FAZER A GALERIA FINALMENTE
+            4.2mm f/1.7 1/10sec ISO 400&#34;</description>
+    </item>
+    
+  </channel>
+</rss>
