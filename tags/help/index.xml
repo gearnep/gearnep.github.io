@@ -2,18 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Help on Home away from Home</title>
-    <link>https://gearnep.github.io/tags/help/</link>
+    <link>https://homeawayfromhome.netlify.app/tags/help/</link>
     <description>Recent content in Help on Home away from Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate><atom:link href="https://gearnep.github.io/tags/help/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate><atom:link href="https://homeawayfromhome.netlify.app/tags/help/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Um novo começo?</title>
-      <link>https://gearnep.github.io/posts/post-1/</link>
+      <title>Essa é a página onde você pode deixar uma mensagem no blog</title>
+      <link>https://homeawayfromhome.netlify.app/chat/chat/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>https://gearnep.github.io/posts/post-1/</guid>
+      <guid>https://homeawayfromhome.netlify.app/chat/chat/</guid>
+      <description>Deixe uma palavra para a eternidade
+</description>
+    </item>
+    
+    <item>
+      <title>Moron</title>
+      <link>https://homeawayfromhome.netlify.app/gallery/moron/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://homeawayfromhome.netlify.app/gallery/moron/</guid>
+      <description>EU CONSEGUI FAZER A GALERIA FINALMENTE
+            4.2mm f/1.7 1/10sec ISO 400&#34;</description>
+    </item>
+    
+    <item>
+      <title>Um novo começo?</title>
+      <link>https://homeawayfromhome.netlify.app/posts/post-1/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://homeawayfromhome.netlify.app/posts/post-1/</guid>
       <description>Eu já tinha um blog, muito antigo aliás, que eu comecei antes mesmo de eu entrar para a faculdade, em 2016 creio.</description>
     </item>
     
